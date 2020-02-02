@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=safeCodeZoom
+comment0.text=\r\n\ safeCodeZoom\ is\ a\ World\ that\ serves\ as\ the\ background\ to\ the\ interface\ where\ user\ enters\ the\ code\r\n\ Note\:\ safeCode\ allows\ user\ to\ enter\ the\ code\r\n\r\n\ @author\ \ Alvin\ Li\r\n\ @version\ 1.0\r\n\ @since\ \ \ 2019-04-05\ \r\n
+comment1.params=
+comment1.target=safeCodeZoom()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ switchWorld()
+numComments=4

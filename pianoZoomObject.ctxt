@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=pianoZoomObject
+comment0.text=\r\n\ pianoZoomObject\ allows\ the\ user\ to\ control\ the\ keys\ of\ the\ piano\ by\ typing\ in\ certain\ keys\r\n\ once\ "fdsdfffdddfhh"\ is\ typed\ (the\ tune\ of\ mary\ had\ a\ little\ lamb),\ the\ piano\ opens\ up\ to\ reveal\ a\ box\r\n\r\n\ @author\ \ Alvin\ Li\r\n\ @version\ 1.3\r\n\ @since\ \ \ 2019-04-11\ \r\n
+comment1.params=pianoZoom
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkMusic()
+comment4.params=
+comment4.target=void\ refreshType()
+comment5.params=
+comment5.target=void\ checkPiano()
+comment6.params=
+comment6.target=void\ checkTyped()
+comment7.params=
+comment7.target=void\ initialiseKeys()
+comment8.params=
+comment8.target=void\ initialiseSound()
+comment9.params=
+comment9.target=void\ pianoOpen()
+numComments=10

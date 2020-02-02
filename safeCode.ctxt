@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=safeCode
+comment0.text=\r\n\ safeCode\ is\ an\ Actor\ that\ allows\ the\ user\ the\ enter\ the\ code,\ maximum\ 8\ characters,\ correct\ code\ is\ 'macaroni'\r\n\ backspace\ -\ delete\ one\ character,\ any\ other\ character\ keys\ -\ add\ the\ character\r\n\ enter\ -\ submit\ code,\ when\ submitted,\ user\ will\ be\ returned\ to\ SafeZoom\r\n\r\n\ @author\ \ Alvin\ Li\r\n\ @version\ 1.0\r\n\ @since\ \ \ 2019-04-05\ \r\n
+comment1.params=MyWorld
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SafeZoom
+comment0.text=\r\n\ safeZoom\ is\ a\ World\ that\ controls\ the\ image\ status\ of\ the\ safe\ (open/closed)\r\n\ if\ it\ is\ clicked\ after\ the\ proper\ code\ is\ entered,\ the\ knob\ will\ turn\ the\ safe\ will\ open\ \r\n\r\n\ @author\ \ Alvin\ Li\r\n\ @version\ 1.0\r\n\ @since\ \ \ 2019-04-09\ \r\n
+comment1.params=
+comment1.target=SafeZoom()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

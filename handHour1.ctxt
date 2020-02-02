@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=handHour1
+comment0.text=\r\n\ handHour1\ allows\ user\ to\ control\ the\ hour\ hand\ of\ the\ clock,\ when\ zoomed\ in\r\n\r\n\ @author\ \ Alvin\ Li\r\n\ @version\ 1.0\r\n\ @since\ \ \ 2019-04-05\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ handHour1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ controlHand()
+numComments=3

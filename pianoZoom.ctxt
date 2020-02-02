@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=pianoZoom
+comment0.text=\r\n\ pianoZoom\ is\ a\ World\ that\ the\ user\ needs\ to\ solve\ by\ typing\ certain\ piano\ keys\r\n\ once\ "fdsdfffdddfhh"\ is\ typed\ (the\ tune\ of\ mary\ had\ a\ little\ lamb),\ the\ piano\ opens\ up\ to\ reveal\ a\ box\r\n\ Note\:\ pianoZoom\ does\ not\ allow\ the\ user\ to\ control\ the\ keys\ of\ the\ piano,\ pianoZoomObject\ does\r\n\r\n\ @author\ \ Alvin\ Li\r\n\ @version\ 1.0\r\n\ @since\ \ \ 2019-04-05\ \r\n
+comment1.params=
+comment1.target=pianoZoom()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ switchWorld()
+numComments=4
